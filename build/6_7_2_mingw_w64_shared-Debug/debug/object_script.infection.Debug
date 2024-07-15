@@ -1,0 +1,13 @@
+debug/circle.o
+debug/healthy.o
+debug/main.o
+debug/mainwindow.o
+debug/patientschart.o
+debug/recovered.o
+debug/sick.o
+debug/qrc_Resources.o
+debug/moc_circle.o
+debug/moc_healthy.o
+debug/moc_mainwindow.o
+debug/moc_patientschart.o
+debug/moc_sick.o

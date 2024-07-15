@@ -1,0 +1,13 @@
+release/circle.o
+release/healthy.o
+release/main.o
+release/mainwindow.o
+release/patientschart.o
+release/recovered.o
+release/sick.o
+release/qrc_Resources.o
+release/moc_circle.o
+release/moc_healthy.o
+release/moc_mainwindow.o
+release/moc_patientschart.o
+release/moc_sick.o
